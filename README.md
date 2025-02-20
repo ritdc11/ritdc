@@ -1,1 +1,3 @@
-![download](https://github.com/user-attachments/assets/c456a4ff-8e6b-43e0-9d15-35b03c1acdbe)
+<p align="center">
+  <img src="./download.gif">
+</p>
